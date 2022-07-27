@@ -1,6 +1,6 @@
 # TimeEspRGB application 
 
-### Getting internet time using Wemos card and showing in a RGB board
+### Getting internet time using Wemos card and display it on RGB board
 
 ### RGB Board ![rgb](https://github.com/Bill29200/TimeEspRGB/blob/master/ECRAN.png)
 ### Wemos Card ![wemos](https://user-images.githubusercontent.com/96910658/181264099-5249d5ae-d436-4dae-927c-43ed8c33490b.png)

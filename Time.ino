@@ -3,8 +3,8 @@
 #include <WiFiUdp.h>
 
 
-char ssid[] = "LAPOSTEMOBILE-8a90";
-char pass[] = "QNPDMX62VWHQ";
+char ssid[] = "SFR_CC5F";
+char pass[] = "a3jn2idxz3nf5uj89u78";
 
 #define NB_TRYWIFI        100
 #include <FastLED.h>        //https://github.com/FastLED/FastLED
